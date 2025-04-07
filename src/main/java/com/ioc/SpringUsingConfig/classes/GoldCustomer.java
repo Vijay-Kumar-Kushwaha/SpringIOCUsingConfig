@@ -17,3 +17,4 @@ public class GoldCustomer {
 		System.out.println("This is "+type);
 	}
 }
+
